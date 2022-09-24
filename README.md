@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GOMATHY
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...java,HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ...gomathycse2020@ksrce.ac.in
 
 <!---
